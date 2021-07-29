@@ -7,3 +7,4 @@ before_install:
 
 script:
   - docker run -e CI=true ameer2rock/docker-react npm run test
+
